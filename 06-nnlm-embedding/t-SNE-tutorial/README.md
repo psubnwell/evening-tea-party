@@ -225,18 +225,6 @@ The final mapping is obtained when the equilibrium is reached.
 
 Here is an illustration of a dynamic graph layout based on a similar idea. Nodes are connected via springs and the system evolves according to law of physics (example by [Mike Bostock](http://bl.ocks.org/mbostock/4062045)).
 
-<iframe src="https://d3ansictanv2wj.cloudfront.net/rossant-f06184034ba66a0bd06a-001.html"
-        style="border: 0; width: 620px; height: 440px; margin: 0; padding: 0;" sandbox="allow-scripts" ></iframe>
-
-
-
-
-
-
-
-
-
-
 
 ## Algorithm
 
@@ -363,6 +351,7 @@ animation.write_gif("images/animation_matrix.gif", fps=20)
 ```
 
 <img src="images/animation_matrix.gif" />
+
 
 ## The t-Student distribution
 

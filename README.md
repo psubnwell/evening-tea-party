@@ -5,4 +5,4 @@
 
 ## 12/03 Neural Network Language Models and Word Embeddings
 
-* t-SNE
+* t-SNE test: $\left| x_i - x_j \right|$
